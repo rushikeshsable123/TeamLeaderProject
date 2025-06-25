@@ -12,7 +12,7 @@ public class ProjectTeamLeaderApplication {
 		
 		
 		SpringApplication.run(ProjectTeamLeaderApplication.class, args);
-		System.out.println("this is project relation executive model");
+		System.out.println("This is Project Relation Executive Model");
 	}
 
 }
